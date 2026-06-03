@@ -1,7 +1,7 @@
 # CEH-STUDY-NOTES
 
 ## About
-My CEH v12 learning journey with module writeups 
+My CEH v13 learning journey with module writeups 
 and hands-on practical documentation.
 
 ## What's Inside
