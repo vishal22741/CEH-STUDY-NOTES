@@ -40,20 +40,20 @@ Hack value is the level of achievement or reward an attacker obtains after succe
   - Black Hat:
       Individuals who computes his own skills to gain un-authorised access or to damage an organization in a illegal way
     
-  - White Hat
+  - White Hat:
       Individuals who computes his own skills in a defensive perspective
     
-  - Grey Hat
+  - Grey Hat:
       Individuals who works for both offensively and defensively
     
-  - Hactivist
+  - Hactivist:
       Hackers who promote a political agenda by hacking, especially by defacing or disabling websites
     
-  - Suicide Hacker
+  - Suicide Hackers:
       An attacker who uses his own skills to reach the target or to compromise the target but
       do not care about being identified or facing legal consequences
     
-  - Script Kiddies
+  - Script Kiddies:
       An unskilled hacker who compromises the system by  running scripts,
        tools, and software developed by real hackers
 
