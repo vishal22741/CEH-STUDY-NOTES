@@ -77,3 +77,30 @@ Hack value is the level of achievement or reward an attacker obtains after succe
            Attacker maintains an access by remains undetected and mainly here attacker gains admin level privileges by uploading trojans etc.. 
   5.Clearing Tracks:
            Which is an final phase here attackers hides or deletes all the evidence of their actions from the victim machine to escape from investigations 
+
+ ## CIA Triad
+   Which defines the information security by three core principles they're :
+
+   Confidentiality- Which describes that data must be accessible to only authorised users 
+       ex: Passwords 
+
+   Integrity- Which describes that data should not be tampered or altered 
+       ex: Hashing , Checksums
+
+   Availability- Which defines that data should be accessible when needed by the authorised users
+      ex: Backups , Redundancy 
+
+## CounterMeasures
+- Regular security audits
+- Patch management
+- Security awareness training
+- Employee security awareness
+
+## My Key Takeaway
+Understanding how attackers think is the 
+first step to building strong defenses.
+Ethical hacking is not about breaking systems 
+it is about protecting them.
+
+## References
+- CEH v13 Module 01
