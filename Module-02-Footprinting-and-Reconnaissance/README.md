@@ -127,6 +127,8 @@ explaination:
      nmap -sV <target>   # Service version detection
      nmap -O <target>    # Operating system detection
      ```
+     
+<img width="1920" height="922" alt="nmap" src="https://github.com/user-attachments/assets/f3cb3aca-1901-46df-9bea-b6801561f7c2" />
 
   ## IP Tracking Technique
   ### Grabify
