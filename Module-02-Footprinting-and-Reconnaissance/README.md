@@ -56,15 +56,14 @@ explaination:
   "options set SOURCE <domain>" and run
   ex:modules load recon/domains-hosts/bing_domain_web
  ### Netcraft :
-  which is open source tool that availabe in search engines - visit netcraft website and Enter a domain name to gather information such as hosting details, 
-  technologies used, infrastructure information, and historical data.
-  
+ Netcraft is a web-based reconnaissance service used to gather information about websites, hosting providers, technologies, and infrastructure details.
+ 
 ## Gathering domain related information with Whois lookup
  syntax:
  ```bash
     whois tata.com
 ```
- whois is an open tool it comes with by default installation in linux that provides domain registration information such as registrar details, registration dates,
+ whois is an protocol command-line utility that provides domain registration information such as registrar details, registration dates,
  name servers, and contact information when publicly available.
 
  ## collecting profiles with usernames 
@@ -121,7 +120,7 @@ explaination:
      nmap <ip>
      ```
      ex:nmap 192.168.0.33
-      Nmap is used to identify open ports, running services, service versions, and for host discovery and service enumeration
+      Nmap is network scanning tool used to identify open ports, running services, service versions, and for host discovery and service enumeration
       Commonly used options:
     ```bash
      nmap -sV <target>   # Service version detection
