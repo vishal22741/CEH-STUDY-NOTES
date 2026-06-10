@@ -115,15 +115,15 @@ explaination:
      Which enables TCP connection with host and specifies whether particular port is open and accessible.
      If the response displays "Connected", the host is reachable and the specified TCP port is open
 
-   ##Nmap :
-     Syntax:
+   ## Nmap :
+  Syntax:
 
      
       ```bash
      nmap <ip>
-     ```
+      ```
 
-  Example:nmap 192.168.0.33
+  Example: nmap 192.168.0.33
       Nmap is network scanning tool used to identify open ports, running services, service versions, and for host discovery and service enumeration
       Commonly used options:
 
@@ -131,7 +131,7 @@ explaination:
     ```bash
      nmap -sV <target>   # Service version detection
      nmap -O <target>    # Operating system detection
-     ```
+    ```
      
  
  <img width="1920" height="922" alt="nmap" src="https://github.com/user-attachments/assets/f3cb3aca-1901-46df-9bea-b6801561f7c2" />
