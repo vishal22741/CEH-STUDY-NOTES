@@ -117,6 +117,8 @@ explaination:
 
    ##Nmap :
      Syntax:
+
+     
       ```bash
      nmap <ip>
      ```
