@@ -120,7 +120,7 @@ explaination:
 
      
       ```bash
-     nmap <ip>
+          nmap <ip>
       ```
 
   Example: nmap 192.168.0.33
