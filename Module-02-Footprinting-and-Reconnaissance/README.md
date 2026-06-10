@@ -72,16 +72,17 @@ explaination:
   ```bash
    sherlock <username>
   ```
- it displays all social media accounts that matches with that username 
+ It searches multiple social media platforms and reports accounts associated with the specified username.
 
  ## Collecting Emails 
  Tool : Infoga 
+ Infoga (Information Gathering) is an OSINT (Open Source Intelligence) tool used to collect and analyze publicly available email addresses associated with a target domain. It searches various public sources and search engines to discover email addresses and provides information related to those emails
   syntax :
   ```bash
     python3 infoga.py -t <domain> -s all
   ```
 explaination:
-  infoga is an automated tool that gives availabe emails related to that domain  here -t specifies target and -s all specifies search engines like 
+   here -t specifies target and -s all specifies search engines like 
   google,bing,censys,yahoo,etc
 
  ## Collecting organisation information- Waybackmachine
