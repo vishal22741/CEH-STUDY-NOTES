@@ -117,10 +117,12 @@ explaination:
 
    ##Nmap :
      Syntax:
+     
      ```bash
      nmap <ip>
      ```
-     ex:nmap 192.168.0.33
+
+  Example:nmap 192.168.0.33
       Nmap is network scanning tool used to identify open ports, running services, service versions, and for host discovery and service enumeration
       Commonly used options:
     ```bash
@@ -128,7 +130,9 @@ explaination:
      nmap -O <target>    # Operating system detection
      ```
      
-<img width="1920" height="922" alt="nmap" src="https://github.com/user-attachments/assets/f3cb3aca-1901-46df-9bea-b6801561f7c2" />
+ 
+ <img width="1920" height="922" alt="nmap" src="https://github.com/user-attachments/assets/f3cb3aca-1901-46df-9bea-b6801561f7c2" />
+
 
   ## IP Tracking Technique
   ### Grabify
